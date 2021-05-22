@@ -1,0 +1,3356 @@
+{
+    "next": null,
+    "previous": null,
+    "totals": 372,
+    "results": [{
+            "score": 156.0,
+            "name": "Александр Харитонов",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Харитонов",
+                "login": "chemist"
+            },
+            "rank": 1
+        }, {
+            "score": 149.0,
+            "name": "Алексей Сазонов",
+            "user": {
+                "first_name": "Алексей",
+                "last_name": "Сазонов",
+                "login": "377513"
+            },
+            "rank": 2
+        }, {
+            "score": 149.0,
+            "name": "Василий Малыгин",
+            "user": {
+                "first_name": "Василий",
+                "last_name": "Малыгин",
+                "login": "mv"
+            },
+            "rank": 3
+        }, {
+            "score": 148.0,
+            "name": "Антон Игнатьев",
+            "user": {
+                "first_name": "Антон",
+                "last_name": "Игнатьев",
+                "login": "328230"
+            },
+            "rank": 4
+        }, {
+            "score": 145.0,
+            "name": "Артём Павлов",
+            "user": {
+                "first_name": "Артём",
+                "last_name": "Павлов",
+                "login": "artpavlov19"
+            },
+            "rank": 5
+        }, {
+            "score": 145.0,
+            "name": "Evgeny Vi",
+            "user": {
+                "first_name": "Evgeny",
+                "last_name": "Vi",
+                "login": "neuro_net"
+            },
+            "rank": 6
+        }, {
+            "score": 142.0,
+            "name": "Дмитрий Шаплов",
+            "user": {
+                "first_name": "Дмитрий",
+                "last_name": "Шаплов",
+                "login": "zenerqon"
+            },
+            "rank": 7
+        }, {
+            "score": 142.0,
+            "name": "Bakytzhan Seitkazin",
+            "user": {
+                "first_name": "Bakytzhan",
+                "last_name": "Seitkazin",
+                "login": "334342"
+            },
+            "rank": 8
+        }, {
+            "score": 140.0,
+            "name": "Sam Bondarev",
+            "user": {
+                "first_name": "Sam",
+                "last_name": "Bondarev",
+                "login": "sbondarev"
+            },
+            "rank": 9
+        }, {
+            "score": 140.0,
+            "name": "",
+            "user": {
+                "first_name": "",
+                "last_name": "",
+                "login": "329890"
+            },
+            "rank": 10
+        }, {
+            "score": 138.0,
+            "name": "Геннадий Кузьмин",
+            "user": {
+                "first_name": "Геннадий",
+                "last_name": "Кузьмин",
+                "login": "genmin"
+            },
+            "rank": 11
+        }, {
+            "score": 138.0,
+            "name": "Виктор Хованский",
+            "user": {
+                "first_name": "Виктор",
+                "last_name": "Хованский",
+                "login": "373748"
+            },
+            "rank": 12
+        }, {
+            "score": 138.0,
+            "name": "Заурбек Гасанов",
+            "user": {
+                "first_name": "Заурбек",
+                "last_name": "Гасанов",
+                "login": "zaurbekzet"
+            },
+            "rank": 13
+        }, {
+            "score": 138.0,
+            "name": "Oleg Negrozov",
+            "user": {
+                "first_name": "Oleg",
+                "last_name": "Negrozov",
+                "login": "338542"
+            },
+            "rank": 14
+        }, {
+            "score": 137.0,
+            "name": "Василий Первиненко",
+            "user": {
+                "first_name": "Василий",
+                "last_name": "Первиненко",
+                "login": "sinland"
+            },
+            "rank": 15
+        }, {
+            "score": 136.0,
+            "name": "Юлия .",
+            "user": {
+                "first_name": "Юлия",
+                "last_name": ".",
+                "login": "ju"
+            },
+            "rank": 16
+        }, {
+            "score": 134.0,
+            "name": "Александр Чермашенцев",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Чермашенцев",
+                "login": "304964"
+            },
+            "rank": 17
+        }, {
+            "score": 133.0,
+            "name": "Айдар Шайфутдинов",
+            "user": {
+                "first_name": "Айдар",
+                "last_name": "Шайфутдинов",
+                "login": "299822"
+            },
+            "rank": 18
+        }, {
+            "score": 133.0,
+            "name": "Валентин Попов",
+            "user": {
+                "first_name": "Валентин",
+                "last_name": "Попов",
+                "login": "304117"
+            },
+            "rank": 19
+        }, {
+            "score": 133.0,
+            "name": "Дмитрий Казанбаев",
+            "user": {
+                "first_name": "Дмитрий",
+                "last_name": "Казанбаев",
+                "login": "302282"
+            },
+            "rank": 20
+        }, {
+            "score": 132.0,
+            "name": "Stanislav Usenkov",
+            "user": {
+                "first_name": "Stanislav",
+                "last_name": "Usenkov",
+                "login": "Reality_SC"
+            },
+            "rank": 21
+        }, {
+            "score": 132.0,
+            "name": "Sergey Zubarev",
+            "user": {
+                "first_name": "Sergey",
+                "last_name": "Zubarev",
+                "login": "zsv"
+            },
+            "rank": 22
+        }, {
+            "score": 131.0,
+            "name": "Александр Силич",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Силич",
+                "login": "389881"
+            },
+            "rank": 23
+        }, {
+            "score": 130.0,
+            "name": "Владимир По",
+            "user": {
+                "first_name": "Владимир",
+                "last_name": "По",
+                "login": "darkslave86"
+            },
+            "rank": 24
+        }, {
+            "score": 130.0,
+            "name": "Дмитрий Никифоров",
+            "user": {
+                "first_name": "Дмитрий",
+                "last_name": "Никифоров",
+                "login": "311720"
+            },
+            "rank": 25
+        }, {
+            "score": 130.0,
+            "name": "Максим Андрюшин",
+            "user": {
+                "first_name": "Максим",
+                "last_name": "Андрюшин",
+                "login": "maxi8031"
+            },
+            "rank": 26
+        }, {
+            "score": 129.0,
+            "name": "Kirill Vialkov",
+            "user": {
+                "first_name": "Kirill",
+                "last_name": "Vialkov",
+                "login": "343228"
+            },
+            "rank": 27
+        }, {
+            "score": 129.0,
+            "name": "D M",
+            "user": {
+                "first_name": "D",
+                "last_name": "M",
+                "login": "301603"
+            },
+            "rank": 28
+        }, {
+            "score": 129.0,
+            "name": "Илья Рябикин",
+            "user": {
+                "first_name": "Илья",
+                "last_name": "Рябикин",
+                "login": "ilyaryabikin"
+            },
+            "rank": 29
+        }, {
+            "score": 127.0,
+            "name": "Anna S",
+            "user": {
+                "first_name": "Anna",
+                "last_name": "S",
+                "login": "super_hacker"
+            },
+            "rank": 30
+        }, {
+            "score": 127.0,
+            "name": "Илья Святкин",
+            "user": {
+                "first_name": "Илья",
+                "last_name": "Святкин",
+                "login": "singularis24"
+            },
+            "rank": 31
+        }, {
+            "score": 127.0,
+            "name": "Сергей Чупин",
+            "user": {
+                "first_name": "Сергей",
+                "last_name": "Чупин",
+                "login": "312116"
+            },
+            "rank": 32
+        }, {
+            "score": 127.0,
+            "name": "Денис Тюрин",
+            "user": {
+                "first_name": "Денис",
+                "last_name": "Тюрин",
+                "login": "tyurinde"
+            },
+            "rank": 33
+        }, {
+            "score": 126.0,
+            "name": "Ruslan Balkin",
+            "user": {
+                "first_name": "Ruslan",
+                "last_name": "Balkin",
+                "login": "BaRoN"
+            },
+            "rank": 34
+        }, {
+            "score": 126.0,
+            "name": "Stas Sviridov",
+            "user": {
+                "first_name": "Stas",
+                "last_name": "Sviridov",
+                "login": "StarWix"
+            },
+            "rank": 35
+        }, {
+            "score": 126.0,
+            "name": "Никита Гордеев",
+            "user": {
+                "first_name": "Никита",
+                "last_name": "Гордеев",
+                "login": "372244"
+            },
+            "rank": 36
+        }, {
+            "score": 125.0,
+            "name": "Aleksandr Spesivtsev",
+            "user": {
+                "first_name": "Aleksandr",
+                "last_name": "Spesivtsev",
+                "login": "sasik"
+            },
+            "rank": 37
+        }, {
+            "score": 123.0,
+            "name": "Вячеслав Муравьев",
+            "user": {
+                "first_name": "Вячеслав",
+                "last_name": "Муравьев",
+                "login": "303546"
+            },
+            "rank": 38
+        }, {
+            "score": 123.0,
+            "name": "Ilfat Kinyaev",
+            "user": {
+                "first_name": "Ilfat",
+                "last_name": "Kinyaev",
+                "login": "kilfat"
+            },
+            "rank": 39
+        }, {
+            "score": 123.0,
+            "name": "Ильнур Абушахманов",
+            "user": {
+                "first_name": "Ильнур",
+                "last_name": "Абушахманов",
+                "login": "tilnu"
+            },
+            "rank": 40
+        }, {
+            "score": 122.0,
+            "name": "Сергей Галиуллин",
+            "user": {
+                "first_name": "Сергей",
+                "last_name": "Галиуллин",
+                "login": "337507"
+            },
+            "rank": 41
+        }, {
+            "score": 122.0,
+            "name": "Александр Чирков",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Чирков",
+                "login": "chirokey"
+            },
+            "rank": 42
+        }, {
+            "score": 121.0,
+            "name": "Павел Рябов",
+            "user": {
+                "first_name": "Павел",
+                "last_name": "Рябов",
+                "login": "312084"
+            },
+            "rank": 43
+        }, {
+            "score": 121.0,
+            "name": "Михаил Стрельченко",
+            "user": {
+                "first_name": "Михаил",
+                "last_name": "Стрельченко",
+                "login": "strelchm"
+            },
+            "rank": 44
+        }, {
+            "score": 121.0,
+            "name": "Nick Nick",
+            "user": {
+                "first_name": "Nick",
+                "last_name": "Nick",
+                "login": "299855"
+            },
+            "rank": 45
+        }, {
+            "score": 121.0,
+            "name": "Maksim Yumashev",
+            "user": {
+                "first_name": "Maksim",
+                "last_name": "Yumashev",
+                "login": "Yumashev"
+            },
+            "rank": 46
+        }, {
+            "score": 120.0,
+            "name": "Михаил Бакотин",
+            "user": {
+                "first_name": "Михаил",
+                "last_name": "Бакотин",
+                "login": "300462"
+            },
+            "rank": 47
+        }, {
+            "score": 119.0,
+            "name": "Арина Свитова",
+            "user": {
+                "first_name": "Арина",
+                "last_name": "Свитова",
+                "login": "miraina"
+            },
+            "rank": 48
+        }, {
+            "score": 119.0,
+            "name": "Анатолий Никифоров",
+            "user": {
+                "first_name": "Анатолий",
+                "last_name": "Никифоров",
+                "login": "qwerty1234"
+            },
+            "rank": 49
+        }, {
+            "score": 119.0,
+            "name": "Дмитрий Кобылкин",
+            "user": {
+                "first_name": "Дмитрий",
+                "last_name": "Кобылкин",
+                "login": "372718"
+            },
+            "rank": 50
+        }, {
+            "score": 118.0,
+            "name": "Dimok Ru",
+            "user": {
+                "first_name": "Dimok",
+                "last_name": "Ru",
+                "login": "laughingman13"
+            },
+            "rank": 51
+        }, {
+            "score": 118.0,
+            "name": "Александр Кузьмичев",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Кузьмичев",
+                "login": "301124"
+            },
+            "rank": 52
+        }, {
+            "score": 118.0,
+            "name": "Роберт Мазитов",
+            "user": {
+                "first_name": "Роберт",
+                "last_name": "Мазитов",
+                "login": "rmazitov"
+            },
+            "rank": 53
+        }, {
+            "score": 117.0,
+            "name": "Сергей Поляков",
+            "user": {
+                "first_name": "Сергей",
+                "last_name": "Поляков",
+                "login": "sergey647"
+            },
+            "rank": 54
+        }, {
+            "score": 117.0,
+            "name": "Sergey Pavlov",
+            "user": {
+                "first_name": "Sergey",
+                "last_name": "Pavlov",
+                "login": "342536"
+            },
+            "rank": 55
+        }, {
+            "score": 117.0,
+            "name": "Владислав Гуренко",
+            "user": {
+                "first_name": "Владислав",
+                "last_name": "Гуренко",
+                "login": "limeman"
+            },
+            "rank": 56
+        }, {
+            "score": 116.0,
+            "name": "Павел Анисимов",
+            "user": {
+                "first_name": "Павел",
+                "last_name": "Анисимов",
+                "login": "An1s9n"
+            },
+            "rank": 57
+        }, {
+            "score": 116.0,
+            "name": "Григорий Теличко",
+            "user": {
+                "first_name": "Григорий",
+                "last_name": "Теличко",
+                "login": "299602"
+            },
+            "rank": 58
+        }, {
+            "score": 116.0,
+            "name": "Владимир Быстров",
+            "user": {
+                "first_name": "Владимир",
+                "last_name": "Быстров",
+                "login": "vovbys"
+            },
+            "rank": 59
+        }, {
+            "score": 116.0,
+            "name": "Артем Барышников",
+            "user": {
+                "first_name": "Артем",
+                "last_name": "Барышников",
+                "login": "giperarleon"
+            },
+            "rank": 60
+        }, {
+            "score": 116.0,
+            "name": "Aleksandr Ivko",
+            "user": {
+                "first_name": "Aleksandr",
+                "last_name": "Ivko",
+                "login": "gordon_from_blumberg"
+            },
+            "rank": 61
+        }, {
+            "score": 116.0,
+            "name": "Андрей Иванов",
+            "user": {
+                "first_name": "Андрей",
+                "last_name": "Иванов",
+                "login": "AndreyCC"
+            },
+            "rank": 62
+        }, {
+            "score": 115.0,
+            "name": "Роберт Мирзаханян",
+            "user": {
+                "first_name": "Роберт",
+                "last_name": "Мирзаханян",
+                "login": "340734"
+            },
+            "rank": 63
+        }, {
+            "score": 114.0,
+            "name": "Никита Кузнецов",
+            "user": {
+                "first_name": "Никита",
+                "last_name": "Кузнецов",
+                "login": "365173"
+            },
+            "rank": 64
+        }, {
+            "score": 113.0,
+            "name": "Сергей Чибитько",
+            "user": {
+                "first_name": "Сергей",
+                "last_name": "Чибитько",
+                "login": "chibitko"
+            },
+            "rank": 65
+        }, {
+            "score": 112.0,
+            "name": "Мария Шамкина",
+            "user": {
+                "first_name": "Мария",
+                "last_name": "Шамкина",
+                "login": "Murxe"
+            },
+            "rank": 66
+        }, {
+            "score": 112.0,
+            "name": "Иван Назаров",
+            "user": {
+                "first_name": "Иван",
+                "last_name": "Назаров",
+                "login": "ivannaz"
+            },
+            "rank": 67
+        }, {
+            "score": 112.0,
+            "name": "Ivan Op",
+            "user": {
+                "first_name": "Ivan",
+                "last_name": "Op",
+                "login": "Ivan_"
+            },
+            "rank": 68
+        }, {
+            "score": 112.0,
+            "name": "Александр Громов",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Громов",
+                "login": "MrUndead"
+            },
+            "rank": 69
+        }, {
+            "score": 111.0,
+            "name": "Mikhail Pushin",
+            "user": {
+                "first_name": "Mikhail",
+                "last_name": "Pushin",
+                "login": "MikhailSP"
+            },
+            "rank": 70
+        }, {
+            "score": 111.0,
+            "name": "Petr Telepaev",
+            "user": {
+                "first_name": "Petr",
+                "last_name": "Telepaev",
+                "login": "petrtelepaev"
+            },
+            "rank": 71
+        }, {
+            "score": 111.0,
+            "name": "Максим Ткачев",
+            "user": {
+                "first_name": "Максим",
+                "last_name": "Ткачев",
+                "login": "jboo7"
+            },
+            "rank": 72
+        }, {
+            "score": 109.0,
+            "name": "Святослав Иванов",
+            "user": {
+                "first_name": "Святослав",
+                "last_name": "Иванов",
+                "login": "IdSviatoslav"
+            },
+            "rank": 73
+        }, {
+            "score": 109.0,
+            "name": "Тимур Тулин",
+            "user": {
+                "first_name": "Тимур",
+                "last_name": "Тулин",
+                "login": "mddtimur"
+            },
+            "rank": 74
+        }, {
+            "score": 108.0,
+            "name": "Alexey K",
+            "user": {
+                "first_name": "Alexey",
+                "last_name": "K",
+                "login": "301672"
+            },
+            "rank": 75
+        }, {
+            "score": 108.0,
+            "name": "Владислав Чепарин",
+            "user": {
+                "first_name": "Владислав",
+                "last_name": "Чепарин",
+                "login": "303446"
+            },
+            "rank": 76
+        }, {
+            "score": 107.0,
+            "name": "Евгений Аликин",
+            "user": {
+                "first_name": "Евгений",
+                "last_name": "Аликин",
+                "login": "300707"
+            },
+            "rank": 77
+        }, {
+            "score": 107.0,
+            "name": "",
+            "user": {
+                "first_name": "",
+                "last_name": "",
+                "login": "363456"
+            },
+            "rank": 78
+        }, {
+            "score": 106.0,
+            "name": "Григорий Балабанов",
+            "user": {
+                "first_name": "Григорий",
+                "last_name": "Балабанов",
+                "login": "Greev"
+            },
+            "rank": 79
+        }, {
+            "score": 106.0,
+            "name": "Aleksandr Baklanov",
+            "user": {
+                "first_name": "Aleksandr",
+                "last_name": "Baklanov",
+                "login": "Baklanozavr"
+            },
+            "rank": 80
+        }, {
+            "score": 106.0,
+            "name": "Dzmitry Fursevich",
+            "user": {
+                "first_name": "Dzmitry",
+                "last_name": "Fursevich",
+                "login": "384584"
+            },
+            "rank": 81
+        }, {
+            "score": 106.0,
+            "name": "Богдан Хрипченко",
+            "user": {
+                "first_name": "Богдан",
+                "last_name": "Хрипченко",
+                "login": "370887"
+            },
+            "rank": 82
+        }, {
+            "score": 105.0,
+            "name": "Nikita V",
+            "user": {
+                "first_name": "Nikita",
+                "last_name": "V",
+                "login": "nikish"
+            },
+            "rank": 83
+        }, {
+            "score": 105.0,
+            "name": "Хабиб Муртузаалиев",
+            "user": {
+                "first_name": "Хабиб",
+                "last_name": "Муртузаалиев",
+                "login": "299502"
+            },
+            "rank": 84
+        }, {
+            "score": 105.0,
+            "name": "Иван Дмитриев",
+            "user": {
+                "first_name": "Иван",
+                "last_name": "Дмитриев",
+                "login": "Ivanich"
+            },
+            "rank": 85
+        }, {
+            "score": 104.0,
+            "name": "Ростислав Ратушний",
+            "user": {
+                "first_name": "Ростислав",
+                "last_name": "Ратушний",
+                "login": "ra27ro"
+            },
+            "rank": 86
+        }, {
+            "score": 104.0,
+            "name": "Денис Андреевич",
+            "user": {
+                "first_name": "Денис",
+                "last_name": "Андреевич",
+                "login": "denis34634"
+            },
+            "rank": 87
+        }, {
+            "score": 104.0,
+            "name": "Роман Ловаков",
+            "user": {
+                "first_name": "Роман",
+                "last_name": "Ловаков",
+                "login": "romirosaan"
+            },
+            "rank": 88
+        }, {
+            "score": 104.0,
+            "name": "Andrey B",
+            "user": {
+                "first_name": "Andrey",
+                "last_name": "B",
+                "login": "andrey9594"
+            },
+            "rank": 89
+        }, {
+            "score": 104.0,
+            "name": "Софья Курдюкова",
+            "user": {
+                "first_name": "Софья",
+                "last_name": "Курдюкова",
+                "login": "skurdyukova"
+            },
+            "rank": 90
+        }, {
+            "score": 104.0,
+            "name": "Denis Rodin",
+            "user": {
+                "first_name": "Denis",
+                "last_name": "Rodin",
+                "login": "365704"
+            },
+            "rank": 91
+        }, {
+            "score": 104.0,
+            "name": "Lev Zaplatin",
+            "user": {
+                "first_name": "Lev",
+                "last_name": "Zaplatin",
+                "login": "313870"
+            },
+            "rank": 92
+        }, {
+            "score": 103.0,
+            "name": "Newbie Noob",
+            "user": {
+                "first_name": "Newbie",
+                "last_name": "Noob",
+                "login": "300696"
+            },
+            "rank": 93
+        }, {
+            "score": 103.0,
+            "name": "Evgenii Sokolov",
+            "user": {
+                "first_name": "Evgenii",
+                "last_name": "Sokolov",
+                "login": "299694"
+            },
+            "rank": 94
+        }, {
+            "score": 103.0,
+            "name": "Артем Захарчук",
+            "user": {
+                "first_name": "Артем",
+                "last_name": "Захарчук",
+                "login": "343209"
+            },
+            "rank": 95
+        }, {
+            "score": 102.0,
+            "name": "Ульяна Артамонова",
+            "user": {
+                "first_name": "Ульяна",
+                "last_name": "Артамонова",
+                "login": "oulina"
+            },
+            "rank": 96
+        }, {
+            "score": 102.0,
+            "name": "Евгений Панин",
+            "user": {
+                "first_name": "Евгений",
+                "last_name": "Панин",
+                "login": "299252"
+            },
+            "rank": 97
+        }, {
+            "score": 102.0,
+            "name": "Anna Kurdiukova",
+            "user": {
+                "first_name": "Anna",
+                "last_name": "Kurdiukova",
+                "login": "anna_kurdiukova"
+            },
+            "rank": 98
+        }, {
+            "score": 102.0,
+            "name": "Степан Бауэр",
+            "user": {
+                "first_name": "Степан",
+                "last_name": "Бауэр",
+                "login": "baustep"
+            },
+            "rank": 99
+        }, {
+            "score": 102.0,
+            "name": "Игорь Тимофеев",
+            "user": {
+                "first_name": "Игорь",
+                "last_name": "Тимофеев",
+                "login": "timoha"
+            },
+            "rank": 100
+        }, {
+            "score": 102.0,
+            "name": "Elena Zhiltsova",
+            "user": {
+                "first_name": "Elena",
+                "last_name": "Zhiltsova",
+                "login": "yetoneya"
+            },
+            "rank": 101
+        }, {
+            "score": 102.0,
+            "name": "Maksim Stepanov",
+            "user": {
+                "first_name": "Maksim",
+                "last_name": "Stepanov",
+                "login": "300517"
+            },
+            "rank": 102
+        }, {
+            "score": 101.0,
+            "name": "Minh Thien Long Vo",
+            "user": {
+                "first_name": "Minh Thien Long",
+                "last_name": "Vo",
+                "login": "360357"
+            },
+            "rank": 103
+        }, {
+            "score": 101.0,
+            "name": "Alexandr Fal",
+            "user": {
+                "first_name": "Alexandr",
+                "last_name": "Fal",
+                "login": "afal"
+            },
+            "rank": 104
+        }, {
+            "score": 100.0,
+            "name": "Сергей Петрелевич",
+            "user": {
+                "first_name": "Сергей",
+                "last_name": "Петрелевич",
+                "login": "339499"
+            },
+            "rank": 105
+        }, {
+            "score": 100.0,
+            "name": "Вячеслав Плотников",
+            "user": {
+                "first_name": "Вячеслав",
+                "last_name": "Плотников",
+                "login": "310870"
+            },
+            "rank": 106
+        }, {
+            "score": 100.0,
+            "name": "Igor Yurchenko",
+            "user": {
+                "first_name": "Igor",
+                "last_name": "Yurchenko",
+                "login": "begemot"
+            },
+            "rank": 107
+        }, {
+            "score": 100.0,
+            "name": "Vladimir Baev",
+            "user": {
+                "first_name": "Vladimir",
+                "last_name": "Baev",
+                "login": "khobensky"
+            },
+            "rank": 108
+        }, {
+            "score": 99.0,
+            "name": "Aleksey Vasin",
+            "user": {
+                "first_name": "Aleksey",
+                "last_name": "Vasin",
+                "login": "xtraenough"
+            },
+            "rank": 109
+        }, {
+            "score": 99.0,
+            "name": "Dinar Rafikov",
+            "user": {
+                "first_name": "Dinar",
+                "last_name": "Rafikov",
+                "login": "DinRafikov"
+            },
+            "rank": 110
+        }, {
+            "score": 99.0,
+            "name": "Виталий Жаков",
+            "user": {
+                "first_name": "Виталий",
+                "last_name": "Жаков",
+                "login": "300634"
+            },
+            "rank": 111
+        }, {
+            "score": 99.0,
+            "name": "Алексей Кочинов",
+            "user": {
+                "first_name": "Алексей",
+                "last_name": "Кочинов",
+                "login": "376844"
+            },
+            "rank": 112
+        }, {
+            "score": 98.0,
+            "name": "Илья Кулышкин",
+            "user": {
+                "first_name": "Илья",
+                "last_name": "Кулышкин",
+                "login": "dikart"
+            },
+            "rank": 113
+        }, {
+            "score": 97.0,
+            "name": "Юлия Михайлова",
+            "user": {
+                "first_name": "Юлия",
+                "last_name": "Михайлова",
+                "login": "Gerrtty"
+            },
+            "rank": 114
+        }, {
+            "score": 97.0,
+            "name": "Ilya Senatskov",
+            "user": {
+                "first_name": "Ilya",
+                "last_name": "Senatskov",
+                "login": "299372"
+            },
+            "rank": 115
+        }, {
+            "score": 96.0,
+            "name": "Радмир Мухамбетов",
+            "user": {
+                "first_name": "Радмир",
+                "last_name": "Мухамбетов",
+                "login": "301952"
+            },
+            "rank": 116
+        }, {
+            "score": 96.0,
+            "name": "Алексей Емельянов",
+            "user": {
+                "first_name": "Алексей",
+                "last_name": "Емельянов",
+                "login": "338750"
+            },
+            "rank": 117
+        }, {
+            "score": 96.0,
+            "name": "Настя Шмакова",
+            "user": {
+                "first_name": "Настя",
+                "last_name": "Шмакова",
+                "login": "304759"
+            },
+            "rank": 118
+        }, {
+            "score": 96.0,
+            "name": "Дмитрий Склютов",
+            "user": {
+                "first_name": "Дмитрий",
+                "last_name": "Склютов",
+                "login": "345815"
+            },
+            "rank": 119
+        }, {
+            "score": 96.0,
+            "name": "Ivan Rybachenko",
+            "user": {
+                "first_name": "Ivan",
+                "last_name": "Rybachenko",
+                "login": "maoz"
+            },
+            "rank": 120
+        }, {
+            "score": 96.0,
+            "name": "Maksim Myshkin",
+            "user": {
+                "first_name": "Maksim",
+                "last_name": "Myshkin",
+                "login": "MeteorBoom"
+            },
+            "rank": 121
+        }, {
+            "score": 96.0,
+            "name": "Иван Машинцев",
+            "user": {
+                "first_name": "Иван",
+                "last_name": "Машинцев",
+                "login": "mashintsev"
+            },
+            "rank": 122
+        }, {
+            "score": 95.0,
+            "name": "Максим Милованов",
+            "user": {
+                "first_name": "Максим",
+                "last_name": "Милованов",
+                "login": "Mirovan"
+            },
+            "rank": 123
+        }, {
+            "score": 95.0,
+            "name": "Артем Гетманский",
+            "user": {
+                "first_name": "Артем",
+                "last_name": "Гетманский",
+                "login": "ArtemGetmanskii"
+            },
+            "rank": 124
+        }, {
+            "score": 95.0,
+            "name": "Shpak Aleksandr",
+            "user": {
+                "first_name": "Shpak",
+                "last_name": "Aleksandr",
+                "login": "371535"
+            },
+            "rank": 125
+        }, {
+            "score": 95.0,
+            "name": "Илья Чудаков",
+            "user": {
+                "first_name": "Илья",
+                "last_name": "Чудаков",
+                "login": "299588"
+            },
+            "rank": 126
+        }, {
+            "score": 95.0,
+            "name": "Valentin Naumov",
+            "user": {
+                "first_name": "Valentin",
+                "last_name": "Naumov",
+                "login": "devolek"
+            },
+            "rank": 127
+        }, {
+            "score": 95.0,
+            "name": "Владимир Малышев",
+            "user": {
+                "first_name": "Владимир",
+                "last_name": "Малышев",
+                "login": "djudikator"
+            },
+            "rank": 128
+        }, {
+            "score": 95.0,
+            "name": "Sundukov Andrey",
+            "user": {
+                "first_name": "Sundukov",
+                "last_name": "Andrey",
+                "login": "asundukov"
+            },
+            "rank": 129
+        }, {
+            "score": 94.0,
+            "name": "Илья Кузьмичев",
+            "user": {
+                "first_name": "Илья",
+                "last_name": "Кузьмичев",
+                "login": "313378"
+            },
+            "rank": 130
+        }, {
+            "score": 94.0,
+            "name": "Роман Волкович",
+            "user": {
+                "first_name": "Роман",
+                "last_name": "Волкович",
+                "login": "Roman_24ru"
+            },
+            "rank": 131
+        }, {
+            "score": 94.0,
+            "name": "Вадим Циндяйкин",
+            "user": {
+                "first_name": "Вадим",
+                "last_name": "Циндяйкин",
+                "login": "289964"
+            },
+            "rank": 132
+        }, {
+            "score": 94.0,
+            "name": "Виктория Грибкова",
+            "user": {
+                "first_name": "Виктория",
+                "last_name": "Грибкова",
+                "login": "331022"
+            },
+            "rank": 133
+        }, {
+            "score": 94.0,
+            "name": "Илья Подхолюзин",
+            "user": {
+                "first_name": "Илья",
+                "last_name": "Подхолюзин",
+                "login": "i_podkholyuzin"
+            },
+            "rank": 134
+        }, {
+            "score": 93.0,
+            "name": "Sabyrzhan Tynybayev",
+            "user": {
+                "first_name": "Sabyrzhan",
+                "last_name": "Tynybayev",
+                "login": "sabyrzhan"
+            },
+            "rank": 135
+        }, {
+            "score": 93.0,
+            "name": "Vladimir Minin",
+            "user": {
+                "first_name": "Vladimir",
+                "last_name": "Minin",
+                "login": "342756"
+            },
+            "rank": 136
+        }, {
+            "score": 93.0,
+            "name": "Александр Кукса",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Кукса",
+                "login": "smerjfo"
+            },
+            "rank": 137
+        }, {
+            "score": 93.0,
+            "name": "",
+            "user": {
+                "first_name": "",
+                "last_name": "",
+                "login": "332684"
+            },
+            "rank": 138
+        }, {
+            "score": 93.0,
+            "name": "Nikolai Beliaev",
+            "user": {
+                "first_name": "Nikolai",
+                "last_name": "Beliaev",
+                "login": "fr13"
+            },
+            "rank": 139
+        }, {
+            "score": 93.0,
+            "name": "Гребеньков Андрей",
+            "user": {
+                "first_name": "Гребеньков",
+                "last_name": "Андрей",
+                "login": "Grebenkov_AV"
+            },
+            "rank": 140
+        }, {
+            "score": 93.0,
+            "name": "Илья Ненашев",
+            "user": {
+                "first_name": "Илья",
+                "last_name": "Ненашев",
+                "login": "308829"
+            },
+            "rank": 141
+        }, {
+            "score": 92.0,
+            "name": "Andrey Chibisov",
+            "user": {
+                "first_name": "Andrey",
+                "last_name": "Chibisov",
+                "login": "nox757"
+            },
+            "rank": 142
+        }, {
+            "score": 92.0,
+            "name": "Александр Гавриков",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Гавриков",
+                "login": "391206"
+            },
+            "rank": 143
+        }, {
+            "score": 92.0,
+            "name": "Roman Ivanov",
+            "user": {
+                "first_name": "Roman",
+                "last_name": "Ivanov",
+                "login": "romura"
+            },
+            "rank": 144
+        }, {
+            "score": 92.0,
+            "name": "Алена Полищук",
+            "user": {
+                "first_name": "Алена",
+                "last_name": "Полищук",
+                "login": "335211"
+            },
+            "rank": 145
+        }, {
+            "score": 92.0,
+            "name": "Ivan Gryazov",
+            "user": {
+                "first_name": "Ivan",
+                "last_name": "Gryazov",
+                "login": "Vayne777"
+            },
+            "rank": 146
+        }, {
+            "score": 92.0,
+            "name": "Рустам Мусин",
+            "user": {
+                "first_name": "Рустам",
+                "last_name": "Мусин",
+                "login": "jvmusin"
+            },
+            "rank": 147
+        }, {
+            "score": 91.0,
+            "name": "Anatoly Semenov",
+            "user": {
+                "first_name": "Anatoly",
+                "last_name": "Semenov",
+                "login": "299448"
+            },
+            "rank": 148
+        }, {
+            "score": 91.0,
+            "name": "Владимир Стеклов",
+            "user": {
+                "first_name": "Владимир",
+                "last_name": "Стеклов",
+                "login": "steklov"
+            },
+            "rank": 149
+        }, {
+            "score": 91.0,
+            "name": "Ульяна Кочеткова",
+            "user": {
+                "first_name": "Ульяна",
+                "last_name": "Кочеткова",
+                "login": "ulianakochetkova"
+            },
+            "rank": 150
+        }, {
+            "score": 91.0,
+            "name": "Павел Быков",
+            "user": {
+                "first_name": "Павел",
+                "last_name": "Быков",
+                "login": "boxlifestyle"
+            },
+            "rank": 151
+        }, {
+            "score": 90.0,
+            "name": "Mikhail Kondrashov",
+            "user": {
+                "first_name": "Mikhail",
+                "last_name": "Kondrashov",
+                "login": "mikhail_kondrashov"
+            },
+            "rank": 152
+        }, {
+            "score": 90.0,
+            "name": "Максим Вершинин",
+            "user": {
+                "first_name": "Максим",
+                "last_name": "Вершинин",
+                "login": "madSpirit"
+            },
+            "rank": 153
+        }, {
+            "score": 90.0,
+            "name": "Сергей Шамов",
+            "user": {
+                "first_name": "Сергей",
+                "last_name": "Шамов",
+                "login": "binocla"
+            },
+            "rank": 154
+        }, {
+            "score": 89.0,
+            "name": "Olga Vorobeva",
+            "user": {
+                "first_name": "Olga",
+                "last_name": "Vorobeva",
+                "login": "312764"
+            },
+            "rank": 155
+        }, {
+            "score": 89.0,
+            "name": "Альберт Фатхудинов",
+            "user": {
+                "first_name": "Альберт",
+                "last_name": "Фатхудинов",
+                "login": "Daneiran"
+            },
+            "rank": 156
+        }, {
+            "score": 89.0,
+            "name": "Виктор Котов",
+            "user": {
+                "first_name": "Виктор",
+                "last_name": "Котов",
+                "login": "kotovviktor"
+            },
+            "rank": 157
+        }, {
+            "score": 89.0,
+            "name": "Максим Еременко",
+            "user": {
+                "first_name": "Максим",
+                "last_name": "Еременко",
+                "login": "Competently"
+            },
+            "rank": 158
+        }, {
+            "score": 88.0,
+            "name": "Ринат Лопатников",
+            "user": {
+                "first_name": "Ринат",
+                "last_name": "Лопатников",
+                "login": "Mehanar"
+            },
+            "rank": 159
+        }, {
+            "score": 88.0,
+            "name": "Александр But",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "But",
+                "login": "Alckur"
+            },
+            "rank": 160
+        }, {
+            "score": 88.0,
+            "name": "Вячеслав Пузаков",
+            "user": {
+                "first_name": "Вячеслав",
+                "last_name": "Пузаков",
+                "login": "312085"
+            },
+            "rank": 161
+        }, {
+            "score": 87.0,
+            "name": "Максим Паньков",
+            "user": {
+                "first_name": "Максим",
+                "last_name": "Паньков",
+                "login": "mxpnk"
+            },
+            "rank": 162
+        }, {
+            "score": 87.0,
+            "name": "Александр Коровин",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Коровин",
+                "login": "alexander_korovin"
+            },
+            "rank": 163
+        }, {
+            "score": 87.0,
+            "name": "Алексей Егоров",
+            "user": {
+                "first_name": "Алексей",
+                "last_name": "Егоров",
+                "login": "exot"
+            },
+            "rank": 164
+        }, {
+            "score": 87.0,
+            "name": "Андрей Быстров",
+            "user": {
+                "first_name": "Андрей",
+                "last_name": "Быстров",
+                "login": "338304"
+            },
+            "rank": 165
+        }, {
+            "score": 87.0,
+            "name": "Дидар Акулов",
+            "user": {
+                "first_name": "Дидар",
+                "last_name": "Акулов",
+                "login": "AndanteMQ"
+            },
+            "rank": 166
+        }, {
+            "score": 87.0,
+            "name": "Максим Дорохин",
+            "user": {
+                "first_name": "Максим",
+                "last_name": "Дорохин",
+                "login": "maxy1989"
+            },
+            "rank": 167
+        }, {
+            "score": 86.0,
+            "name": "",
+            "user": {
+                "first_name": "",
+                "last_name": "",
+                "login": "376949"
+            },
+            "rank": 168
+        }, {
+            "score": 86.0,
+            "name": "Евгений Иванкин",
+            "user": {
+                "first_name": "Евгений",
+                "last_name": "Иванкин",
+                "login": "eivankin"
+            },
+            "rank": 169
+        }, {
+            "score": 85.0,
+            "name": "Андрей Фёдоров",
+            "user": {
+                "first_name": "Андрей",
+                "last_name": "Фёдоров",
+                "login": "nvfredy"
+            },
+            "rank": 170
+        }, {
+            "score": 85.0,
+            "name": "Александр Ковалев",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Ковалев",
+                "login": "akovalev"
+            },
+            "rank": 171
+        }, {
+            "score": 85.0,
+            "name": "Максим Спиридонов",
+            "user": {
+                "first_name": "Максим",
+                "last_name": "Спиридонов",
+                "login": "Spiridmaksim"
+            },
+            "rank": 172
+        }, {
+            "score": 84.0,
+            "name": "Илья Звягин",
+            "user": {
+                "first_name": "Илья",
+                "last_name": "Звягин",
+                "login": "292435"
+            },
+            "rank": 173
+        }, {
+            "score": 84.0,
+            "name": "Артём Семенов",
+            "user": {
+                "first_name": "Артём",
+                "last_name": "Семенов",
+                "login": "Utihiro"
+            },
+            "rank": 174
+        }, {
+            "score": 83.0,
+            "name": "Nikita Ivchenko",
+            "user": {
+                "first_name": "Nikita",
+                "last_name": "Ivchenko",
+                "login": "382305"
+            },
+            "rank": 175
+        }, {
+            "score": 83.0,
+            "name": "Рузалин Хайбриев",
+            "user": {
+                "first_name": "Рузалин",
+                "last_name": "Хайбриев",
+                "login": "Hajruz"
+            },
+            "rank": 176
+        }, {
+            "score": 83.0,
+            "name": "Данил Белоусов",
+            "user": {
+                "first_name": "Данил",
+                "last_name": "Белоусов",
+                "login": "delis"
+            },
+            "rank": 177
+        }, {
+            "score": 82.0,
+            "name": "Михаил Медведев",
+            "user": {
+                "first_name": "Михаил",
+                "last_name": "Медведев",
+                "login": "279437"
+            },
+            "rank": 178
+        }, {
+            "score": 82.0,
+            "name": "Кирилл Андрианов",
+            "user": {
+                "first_name": "Кирилл",
+                "last_name": "Андрианов",
+                "login": "368962"
+            },
+            "rank": 179
+        }, {
+            "score": 82.0,
+            "name": "Alex R",
+            "user": {
+                "first_name": "Alex",
+                "last_name": "R",
+                "login": "Tubala"
+            },
+            "rank": 180
+        }, {
+            "score": 81.0,
+            "name": "Ekaterina Skavronskaya",
+            "user": {
+                "first_name": "Ekaterina",
+                "last_name": "Skavronskaya",
+                "login": "skavy"
+            },
+            "rank": 181
+        }, {
+            "score": 81.0,
+            "name": "Артем Свириденко",
+            "user": {
+                "first_name": "Артем",
+                "last_name": "Свириденко",
+                "login": "havabox"
+            },
+            "rank": 182
+        }, {
+            "score": 80.0,
+            "name": "Sergei Andreev",
+            "user": {
+                "first_name": "Sergei",
+                "last_name": "Andreev",
+                "login": "Verzera"
+            },
+            "rank": 183
+        }, {
+            "score": 80.0,
+            "name": "Artyom Petrov",
+            "user": {
+                "first_name": "Artyom",
+                "last_name": "Petrov",
+                "login": "365849"
+            },
+            "rank": 184
+        }, {
+            "score": 80.0,
+            "name": "Василий Бутко",
+            "user": {
+                "first_name": "Василий",
+                "last_name": "Бутко",
+                "login": "basilur_14"
+            },
+            "rank": 185
+        }, {
+            "score": 80.0,
+            "name": "Yaroslav Yaroslav",
+            "user": {
+                "first_name": "Yaroslav",
+                "last_name": "Yaroslav",
+                "login": "yaroslav"
+            },
+            "rank": 186
+        }, {
+            "score": 80.0,
+            "name": "Павел Ненароков",
+            "user": {
+                "first_name": "Павел",
+                "last_name": "Ненароков",
+                "login": "389977"
+            },
+            "rank": 187
+        }, {
+            "score": 80.0,
+            "name": "Илья Цыденов",
+            "user": {
+                "first_name": "Илья",
+                "last_name": "Цыденов",
+                "login": "Rookonroad"
+            },
+            "rank": 188
+        }, {
+            "score": 80.0,
+            "name": "Кирилл Курко",
+            "user": {
+                "first_name": "Кирилл",
+                "last_name": "Курко",
+                "login": "kirillkurko"
+            },
+            "rank": 189
+        }, {
+            "score": 80.0,
+            "name": "Kirill Skubnikov",
+            "user": {
+                "first_name": "Kirill",
+                "last_name": "Skubnikov",
+                "login": "lieandie"
+            },
+            "rank": 190
+        }, {
+            "score": 79.0,
+            "name": "Владимир Волков",
+            "user": {
+                "first_name": "Владимир",
+                "last_name": "Волков",
+                "login": "vvolkov"
+            },
+            "rank": 191
+        }, {
+            "score": 79.0,
+            "name": "Алексей Калабухов",
+            "user": {
+                "first_name": "Алексей",
+                "last_name": "Калабухов",
+                "login": "creew"
+            },
+            "rank": 192
+        }, {
+            "score": 79.0,
+            "name": "Олег Бармин",
+            "user": {
+                "first_name": "Олег",
+                "last_name": "Бармин",
+                "login": "lezhik"
+            },
+            "rank": 193
+        }, {
+            "score": 78.0,
+            "name": "Anton Musinov",
+            "user": {
+                "first_name": "Anton",
+                "last_name": "Musinov",
+                "login": "344797"
+            },
+            "rank": 194
+        }, {
+            "score": 78.0,
+            "name": "Михаил Гуторов",
+            "user": {
+                "first_name": "Михаил",
+                "last_name": "Гуторов",
+                "login": "Othernik"
+            },
+            "rank": 195
+        }, {
+            "score": 78.0,
+            "name": "Жан Поплавский",
+            "user": {
+                "first_name": "Жан",
+                "last_name": "Поплавский",
+                "login": "312385"
+            },
+            "rank": 196
+        }, {
+            "score": 78.0,
+            "name": "Игорь Амелин",
+            "user": {
+                "first_name": "Игорь",
+                "last_name": "Амелин",
+                "login": "301714"
+            },
+            "rank": 197
+        }, {
+            "score": 78.0,
+            "name": "Сергей Кузённый",
+            "user": {
+                "first_name": "Сергей",
+                "last_name": "Кузённый",
+                "login": "SergK"
+            },
+            "rank": 198
+        }, {
+            "score": 77.0,
+            "name": "Oleg Semenov",
+            "user": {
+                "first_name": "Oleg",
+                "last_name": "Semenov",
+                "login": "Treap"
+            },
+            "rank": 199
+        }, {
+            "score": 77.0,
+            "name": "Никита Платонов",
+            "user": {
+                "first_name": "Никита",
+                "last_name": "Платонов",
+                "login": "Ps1h0"
+            },
+            "rank": 200
+        }, {
+            "score": 77.0,
+            "name": "Максим Андрианов",
+            "user": {
+                "first_name": "Максим",
+                "last_name": "Андрианов",
+                "login": "quickeditz"
+            },
+            "rank": 201
+        }, {
+            "score": 77.0,
+            "name": "Богдан Чурюмов",
+            "user": {
+                "first_name": "Богдан",
+                "last_name": "Чурюмов",
+                "login": "macgood"
+            },
+            "rank": 202
+        }, {
+            "score": 77.0,
+            "name": "Рустам Пулатов",
+            "user": {
+                "first_name": "Рустам",
+                "last_name": "Пулатов",
+                "login": "381568"
+            },
+            "rank": 203
+        }, {
+            "score": 76.0,
+            "name": "Иван Горбунов",
+            "user": {
+                "first_name": "Иван",
+                "last_name": "Горбунов",
+                "login": "Ekto"
+            },
+            "rank": 204
+        }, {
+            "score": 76.0,
+            "name": "Василий Сачков",
+            "user": {
+                "first_name": "Василий",
+                "last_name": "Сачков",
+                "login": "Zest"
+            },
+            "rank": 205
+        }, {
+            "score": 76.0,
+            "name": "Никита Гржибовский",
+            "user": {
+                "first_name": "Никита",
+                "last_name": "Гржибовский",
+                "login": "Arkanium77"
+            },
+            "rank": 206
+        }, {
+            "score": 76.0,
+            "name": "Vlad Borisov",
+            "user": {
+                "first_name": "Vlad",
+                "last_name": "Borisov",
+                "login": "borisovvlad"
+            },
+            "rank": 207
+        }, {
+            "score": 73.0,
+            "name": "Dmitry Kuzmenkov",
+            "user": {
+                "first_name": "Dmitry",
+                "last_name": "Kuzmenkov",
+                "login": "dkuzmenkov17"
+            },
+            "rank": 208
+        }, {
+            "score": 72.0,
+            "name": "Денис Маленков",
+            "user": {
+                "first_name": "Денис",
+                "last_name": "Маленков",
+                "login": "Sadknight"
+            },
+            "rank": 209
+        }, {
+            "score": 72.0,
+            "name": "Татьяна Данилина",
+            "user": {
+                "first_name": "Татьяна",
+                "last_name": "Данилина",
+                "login": "UserLogin"
+            },
+            "rank": 210
+        }, {
+            "score": 72.0,
+            "name": "Дмитрий Яковлев",
+            "user": {
+                "first_name": "Дмитрий",
+                "last_name": "Яковлев",
+                "login": "YakovlevDmitry"
+            },
+            "rank": 211
+        }, {
+            "score": 71.0,
+            "name": "Илья Гаганов",
+            "user": {
+                "first_name": "Илья",
+                "last_name": "Гаганов",
+                "login": "305830"
+            },
+            "rank": 212
+        }, {
+            "score": 71.0,
+            "name": "Иван Перевалов",
+            "user": {
+                "first_name": "Иван",
+                "last_name": "Перевалов",
+                "login": "ipv176"
+            },
+            "rank": 213
+        }, {
+            "score": 70.0,
+            "name": "Корнилов Ньургуйаан",
+            "user": {
+                "first_name": "Корнилов",
+                "last_name": "Ньургуйаан",
+                "login": "nurguyan"
+            },
+            "rank": 214
+        }, {
+            "score": 69.0,
+            "name": "Алексей Петухов",
+            "user": {
+                "first_name": "Алексей",
+                "last_name": "Петухов",
+                "login": "337541"
+            },
+            "rank": 215
+        }, {
+            "score": 69.0,
+            "name": "Тофик Муртузов",
+            "user": {
+                "first_name": "Тофик",
+                "last_name": "Муртузов",
+                "login": "tofik1208"
+            },
+            "rank": 216
+        }, {
+            "score": 69.0,
+            "name": "shwed s",
+            "user": {
+                "first_name": "shwed",
+                "last_name": "s",
+                "login": "nyood"
+            },
+            "rank": 217
+        }, {
+            "score": 68.0,
+            "name": "Evgeny Chernoskutov",
+            "user": {
+                "first_name": "Evgeny",
+                "last_name": "Chernoskutov",
+                "login": "EvgenyChem"
+            },
+            "rank": 218
+        }, {
+            "score": 68.0,
+            "name": "Анастасия Покасова",
+            "user": {
+                "first_name": "Анастасия",
+                "last_name": "Покасова",
+                "login": "Euclidophren"
+            },
+            "rank": 219
+        }, {
+            "score": 68.0,
+            "name": "Александр Никоноров",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Никоноров",
+                "login": "coolhabit"
+            },
+            "rank": 220
+        }, {
+            "score": 67.0,
+            "name": "",
+            "user": {
+                "first_name": "",
+                "last_name": "",
+                "login": "345203"
+            },
+            "rank": 221
+        }, {
+            "score": 67.0,
+            "name": "Александр Тарасенко",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Тарасенко",
+                "login": "300248"
+            },
+            "rank": 222
+        }, {
+            "score": 67.0,
+            "name": "Антон Кравцов",
+            "user": {
+                "first_name": "Антон",
+                "last_name": "Кравцов",
+                "login": "AntonK"
+            },
+            "rank": 223
+        }, {
+            "score": 66.0,
+            "name": "Roman Sergeev",
+            "user": {
+                "first_name": "Roman",
+                "last_name": "Sergeev",
+                "login": "EverI_XD"
+            },
+            "rank": 224
+        }, {
+            "score": 66.0,
+            "name": "Alex Alex",
+            "user": {
+                "first_name": "Alex",
+                "last_name": "Alex",
+                "login": "alextim1508"
+            },
+            "rank": 225
+        }, {
+            "score": 66.0,
+            "name": "Евгений Казакевич",
+            "user": {
+                "first_name": "Евгений",
+                "last_name": "Казакевич",
+                "login": "D_Saint"
+            },
+            "rank": 226
+        }, {
+            "score": 66.0,
+            "name": "big mak",
+            "user": {
+                "first_name": "big",
+                "last_name": "mak",
+                "login": "Bankinchai"
+            },
+            "rank": 227
+        }, {
+            "score": 66.0,
+            "name": "Роман Горн",
+            "user": {
+                "first_name": "Роман",
+                "last_name": "Горн",
+                "login": "gornroman"
+            },
+            "rank": 228
+        }, {
+            "score": 65.0,
+            "name": "Сергей Ульянов",
+            "user": {
+                "first_name": "Сергей",
+                "last_name": "Ульянов",
+                "login": "lenineo"
+            },
+            "rank": 229
+        }, {
+            "score": 65.0,
+            "name": "Ivan Efanov",
+            "user": {
+                "first_name": "Ivan",
+                "last_name": "Efanov",
+                "login": "qatro0"
+            },
+            "rank": 230
+        }, {
+            "score": 64.0,
+            "name": "максим тихоненков",
+            "user": {
+                "first_name": "максим",
+                "last_name": "тихоненков",
+                "login": "374147"
+            },
+            "rank": 231
+        }, {
+            "score": 64.0,
+            "name": "Ivan Didichenko",
+            "user": {
+                "first_name": "Ivan",
+                "last_name": "Didichenko",
+                "login": "virginonline"
+            },
+            "rank": 232
+        }, {
+            "score": 64.0,
+            "name": "Евгений Стребков",
+            "user": {
+                "first_name": "Евгений",
+                "last_name": "Стребков",
+                "login": "jenias"
+            },
+            "rank": 233
+        }, {
+            "score": 63.0,
+            "name": "Никита Разговоров",
+            "user": {
+                "first_name": "Никита",
+                "last_name": "Разговоров",
+                "login": "springRoller"
+            },
+            "rank": 234
+        }, {
+            "score": 63.0,
+            "name": "Юрий Платонов",
+            "user": {
+                "first_name": "Юрий",
+                "last_name": "Платонов",
+                "login": "Uron"
+            },
+            "rank": 235
+        }, {
+            "score": 63.0,
+            "name": "Alex Bocharov",
+            "user": {
+                "first_name": "Alex",
+                "last_name": "Bocharov",
+                "login": "384081"
+            },
+            "rank": 236
+        }, {
+            "score": 63.0,
+            "name": "Artem Zaytsev",
+            "user": {
+                "first_name": "Artem",
+                "last_name": "Zaytsev",
+                "login": "artzaitcev"
+            },
+            "rank": 237
+        }, {
+            "score": 63.0,
+            "name": "Николай Блинов",
+            "user": {
+                "first_name": "Николай",
+                "last_name": "Блинов",
+                "login": "gemerald"
+            },
+            "rank": 238
+        }, {
+            "score": 63.0,
+            "name": "Ирина Кононова",
+            "user": {
+                "first_name": "Ирина",
+                "last_name": "Кононова",
+                "login": "335383"
+            },
+            "rank": 239
+        }, {
+            "score": 63.0,
+            "name": "Евгений Якушин",
+            "user": {
+                "first_name": "Евгений",
+                "last_name": "Якушин",
+                "login": "306281"
+            },
+            "rank": 240
+        }, {
+            "score": 62.0,
+            "name": "Алексей Маянов",
+            "user": {
+                "first_name": "Алексей",
+                "last_name": "Маянов",
+                "login": "372841"
+            },
+            "rank": 241
+        }, {
+            "score": 62.0,
+            "name": "Евгения Бодрикова",
+            "user": {
+                "first_name": "Евгения",
+                "last_name": "Бодрикова",
+                "login": "384434"
+            },
+            "rank": 242
+        }, {
+            "score": 61.0,
+            "name": "Pavel Diadych",
+            "user": {
+                "first_name": "Pavel",
+                "last_name": "Diadych",
+                "login": "301275"
+            },
+            "rank": 243
+        }, {
+            "score": 61.0,
+            "name": "Руслан Пунин",
+            "user": {
+                "first_name": "Руслан",
+                "last_name": "Пунин",
+                "login": "rusl"
+            },
+            "rank": 244
+        }, {
+            "score": 61.0,
+            "name": "Aleksey Sverbeev",
+            "user": {
+                "first_name": "Aleksey",
+                "last_name": "Sverbeev",
+                "login": "ihopeudie"
+            },
+            "rank": 245
+        }, {
+            "score": 61.0,
+            "name": "Артур Диваев",
+            "user": {
+                "first_name": "Артур",
+                "last_name": "Диваев",
+                "login": "294012"
+            },
+            "rank": 246
+        }, {
+            "score": 60.0,
+            "name": "Sergey Semendyaev",
+            "user": {
+                "first_name": "Sergey",
+                "last_name": "Semendyaev",
+                "login": "382675"
+            },
+            "rank": 247
+        }, {
+            "score": 60.0,
+            "name": "Suleyman Abd",
+            "user": {
+                "first_name": "Suleyman",
+                "last_name": "Abd",
+                "login": "Suleyman"
+            },
+            "rank": 248
+        }, {
+            "score": 60.0,
+            "name": "Viktor Zotov",
+            "user": {
+                "first_name": "Viktor",
+                "last_name": "Zotov",
+                "login": "F3ss"
+            },
+            "rank": 249
+        }, {
+            "score": 58.0,
+            "name": "Александр Ильин",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Ильин",
+                "login": "Xander"
+            },
+            "rank": 250
+        }, {
+            "score": 58.0,
+            "name": "Григорий Думилин",
+            "user": {
+                "first_name": "Григорий",
+                "last_name": "Думилин",
+                "login": "390298"
+            },
+            "rank": 251
+        }, {
+            "score": 57.0,
+            "name": "Anton Kirichenko",
+            "user": {
+                "first_name": "Anton",
+                "last_name": "Kirichenko",
+                "login": "selfmadeK"
+            },
+            "rank": 252
+        }, {
+            "score": 57.0,
+            "name": "Никита Кокунин",
+            "user": {
+                "first_name": "Никита",
+                "last_name": "Кокунин",
+                "login": "woolly"
+            },
+            "rank": 253
+        }, {
+            "score": 56.0,
+            "name": "Александр Мулярчук",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Мулярчук",
+                "login": "aka_npou"
+            },
+            "rank": 254
+        }, {
+            "score": 56.0,
+            "name": "Дамир Искаков",
+            "user": {
+                "first_name": "Дамир",
+                "last_name": "Искаков",
+                "login": "Damir"
+            },
+            "rank": 255
+        }, {
+            "score": 55.0,
+            "name": "Артём Иванов",
+            "user": {
+                "first_name": "Артём",
+                "last_name": "Иванов",
+                "login": "338873"
+            },
+            "rank": 256
+        }, {
+            "score": 55.0,
+            "name": "Наумов Георгий",
+            "user": {
+                "first_name": "Наумов",
+                "last_name": "Георгий",
+                "login": "302065"
+            },
+            "rank": 257
+        }, {
+            "score": 55.0,
+            "name": "Дима Корнюшин",
+            "user": {
+                "first_name": "Дима",
+                "last_name": "Корнюшин",
+                "login": "GektoKot"
+            },
+            "rank": 258
+        }, {
+            "score": 54.0,
+            "name": "Олег Бедило",
+            "user": {
+                "first_name": "Олег",
+                "last_name": "Бедило",
+                "login": "JluoH"
+            },
+            "rank": 259
+        }, {
+            "score": 53.0,
+            "name": "Oleksandr Dendeberia",
+            "user": {
+                "first_name": "Oleksandr",
+                "last_name": "Dendeberia",
+                "login": "salvator"
+            },
+            "rank": 260
+        }, {
+            "score": 53.0,
+            "name": "Nick Titov",
+            "user": {
+                "first_name": "Nick",
+                "last_name": "Titov",
+                "login": "titonick174"
+            },
+            "rank": 261
+        }, {
+            "score": 53.0,
+            "name": "Дмитрий Петрушка",
+            "user": {
+                "first_name": "Дмитрий",
+                "last_name": "Петрушка",
+                "login": "PetrushkaDima"
+            },
+            "rank": 262
+        }, {
+            "score": 53.0,
+            "name": "Egor Kulikov",
+            "user": {
+                "first_name": "Egor",
+                "last_name": "Kulikov",
+                "login": "327906"
+            },
+            "rank": 263
+        }, {
+            "score": 53.0,
+            "name": "Егор Волков",
+            "user": {
+                "first_name": "Егор",
+                "last_name": "Волков",
+                "login": "275581"
+            },
+            "rank": 264
+        }, {
+            "score": 51.0,
+            "name": "Anton Volkov",
+            "user": {
+                "first_name": "Anton",
+                "last_name": "Volkov",
+                "login": "Volkas"
+            },
+            "rank": 265
+        }, {
+            "score": 51.0,
+            "name": "Данила Рассохин",
+            "user": {
+                "first_name": "Данила",
+                "last_name": "Рассохин",
+                "login": "kpekepsalt"
+            },
+            "rank": 266
+        }, {
+            "score": 51.0,
+            "name": "Alla Головина",
+            "user": {
+                "first_name": "Alla",
+                "last_name": "Головина",
+                "login": "Eclipese"
+            },
+            "rank": 267
+        }, {
+            "score": 51.0,
+            "name": "Ericnn E",
+            "user": {
+                "first_name": "Ericnn",
+                "last_name": "E",
+                "login": "ericnn"
+            },
+            "rank": 268
+        }, {
+            "score": 50.0,
+            "name": "",
+            "user": {
+                "first_name": "",
+                "last_name": "",
+                "login": "331472"
+            },
+            "rank": 269
+        }, {
+            "score": 50.0,
+            "name": "Олег Белоусов",
+            "user": {
+                "first_name": "Олег",
+                "last_name": "Белоусов",
+                "login": "shnoor64"
+            },
+            "rank": 270
+        }, {
+            "score": 50.0,
+            "name": "Диана Тастанбек",
+            "user": {
+                "first_name": "Диана",
+                "last_name": "Тастанбек",
+                "login": "297566"
+            },
+            "rank": 271
+        }, {
+            "score": 50.0,
+            "name": "Вероника Корожан",
+            "user": {
+                "first_name": "Вероника",
+                "last_name": "Корожан",
+                "login": "374559"
+            },
+            "rank": 272
+        }, {
+            "score": 49.0,
+            "name": "Арсен Авалян",
+            "user": {
+                "first_name": "Арсен",
+                "last_name": "Авалян",
+                "login": "300270"
+            },
+            "rank": 273
+        }, {
+            "score": 49.0,
+            "name": "Максим Тихоненко",
+            "user": {
+                "first_name": "Максим",
+                "last_name": "Тихоненко",
+                "login": "maxtihon"
+            },
+            "rank": 274
+        }, {
+            "score": 48.0,
+            "name": "Сергей Буймов",
+            "user": {
+                "first_name": "Сергей",
+                "last_name": "Буймов",
+                "login": "Sergei00787"
+            },
+            "rank": 275
+        }, {
+            "score": 48.0,
+            "name": "Valeri Burlacu",
+            "user": {
+                "first_name": "Valeri",
+                "last_name": "Burlacu",
+                "login": "Valeri"
+            },
+            "rank": 276
+        }, {
+            "score": 47.0,
+            "name": "Валерий Беленко",
+            "user": {
+                "first_name": "Валерий",
+                "last_name": "Беленко",
+                "login": "admusvabiz"
+            },
+            "rank": 277
+        }, {
+            "score": 46.0,
+            "name": "Олег Ильминский",
+            "user": {
+                "first_name": "Олег",
+                "last_name": "Ильминский",
+                "login": "306091"
+            },
+            "rank": 278
+        }, {
+            "score": 45.0,
+            "name": "Руслан Пуряев",
+            "user": {
+                "first_name": "Руслан",
+                "last_name": "Пуряев",
+                "login": "299742"
+            },
+            "rank": 279
+        }, {
+            "score": 45.0,
+            "name": "Артур Ахметов",
+            "user": {
+                "first_name": "Артур",
+                "last_name": "Ахметов",
+                "login": "Genius"
+            },
+            "rank": 280
+        }, {
+            "score": 45.0,
+            "name": "Богдан Кравченко",
+            "user": {
+                "first_name": "Богдан",
+                "last_name": "Кравченко",
+                "login": "MckaroSSka626"
+            },
+            "rank": 281
+        }, {
+            "score": 44.0,
+            "name": "Роман Колесников",
+            "user": {
+                "first_name": "Роман",
+                "last_name": "Колесников",
+                "login": "328241"
+            },
+            "rank": 282
+        }, {
+            "score": 44.0,
+            "name": "Иван Засухин",
+            "user": {
+                "first_name": "Иван",
+                "last_name": "Засухин",
+                "login": "1nsanepz"
+            },
+            "rank": 283
+        }, {
+            "score": 43.0,
+            "name": "Aziz Abdukarimov",
+            "user": {
+                "first_name": "Aziz",
+                "last_name": "Abdukarimov",
+                "login": "Aziz_Texas_Coder"
+            },
+            "rank": 284
+        }, {
+            "score": 43.0,
+            "name": "Данила Ягупец",
+            "user": {
+                "first_name": "Данила",
+                "last_name": "Ягупец",
+                "login": "298739"
+            },
+            "rank": 285
+        }, {
+            "score": 42.0,
+            "name": "Никита Дрыгин",
+            "user": {
+                "first_name": "Никита",
+                "last_name": "Дрыгин",
+                "login": "nixon3333"
+            },
+            "rank": 286
+        }, {
+            "score": 42.0,
+            "name": "Владимир Косованов",
+            "user": {
+                "first_name": "Владимир",
+                "last_name": "Косованов",
+                "login": "regiuss"
+            },
+            "rank": 287
+        }, {
+            "score": 42.0,
+            "name": "Алишер Гулов",
+            "user": {
+                "first_name": "Алишер",
+                "last_name": "Гулов",
+                "login": "377272"
+            },
+            "rank": 288
+        }, {
+            "score": 42.0,
+            "name": "Евгений Толмачев",
+            "user": {
+                "first_name": "Евгений",
+                "last_name": "Толмачев",
+                "login": "Zoomex"
+            },
+            "rank": 289
+        }, {
+            "score": 41.0,
+            "name": "Merch Худойназаров",
+            "user": {
+                "first_name": "Merch",
+                "last_name": "Худойназаров",
+                "login": "Merch"
+            },
+            "rank": 290
+        }, {
+            "score": 41.0,
+            "name": "nikita shukalin",
+            "user": {
+                "first_name": "nikita",
+                "last_name": "shukalin",
+                "login": "nikit3113"
+            },
+            "rank": 291
+        }, {
+            "score": 41.0,
+            "name": "Алексей Вадимович",
+            "user": {
+                "first_name": "Алексей",
+                "last_name": "Вадимович",
+                "login": "life_fire"
+            },
+            "rank": 292
+        }, {
+            "score": 41.0,
+            "name": "Leonid Lisitsyn",
+            "user": {
+                "first_name": "Leonid",
+                "last_name": "Lisitsyn",
+                "login": "leolisitsyn"
+            },
+            "rank": 293
+        }, {
+            "score": 40.0,
+            "name": "Vadim Kharkov",
+            "user": {
+                "first_name": "Vadim",
+                "last_name": "Kharkov",
+                "login": "dave"
+            },
+            "rank": 294
+        }, {
+            "score": 39.0,
+            "name": "Abylay Aiyp",
+            "user": {
+                "first_name": "Abylay",
+                "last_name": "Aiyp",
+                "login": "abylaip"
+            },
+            "rank": 295
+        }, {
+            "score": 39.0,
+            "name": "Ivan Kashukov",
+            "user": {
+                "first_name": "Ivan",
+                "last_name": "Kashukov",
+                "login": "albaslug"
+            },
+            "rank": 296
+        }, {
+            "score": 39.0,
+            "name": "Максим Дзюба",
+            "user": {
+                "first_name": "Максим",
+                "last_name": "Дзюба",
+                "login": "maximdziuba"
+            },
+            "rank": 297
+        }, {
+            "score": 39.0,
+            "name": "Евгений Фроликов",
+            "user": {
+                "first_name": "Евгений",
+                "last_name": "Фроликов",
+                "login": "FrolikovEA"
+            },
+            "rank": 298
+        }, {
+            "score": 38.0,
+            "name": "Сергей Фоменко",
+            "user": {
+                "first_name": "Сергей",
+                "last_name": "Фоменко",
+                "login": "278452"
+            },
+            "rank": 299
+        }, {
+            "score": 38.0,
+            "name": "Eugeniy N",
+            "user": {
+                "first_name": "Eugeniy",
+                "last_name": "N",
+                "login": "evgeniyN"
+            },
+            "rank": 300
+        }, {
+            "score": 38.0,
+            "name": "Тахир Гафиулин",
+            "user": {
+                "first_name": "Тахир",
+                "last_name": "Гафиулин",
+                "login": "387611"
+            },
+            "rank": 301
+        }, {
+            "score": 36.0,
+            "name": "Andrei Petrulevich",
+            "user": {
+                "first_name": "Andrei",
+                "last_name": "Petrulevich",
+                "login": "Ondre"
+            },
+            "rank": 302
+        }, {
+            "score": 35.0,
+            "name": "Филипп Игин",
+            "user": {
+                "first_name": "Филипп",
+                "last_name": "Игин",
+                "login": "fenix129"
+            },
+            "rank": 303
+        }, {
+            "score": 35.0,
+            "name": "Anton Pechkin",
+            "user": {
+                "first_name": "Anton",
+                "last_name": "Pechkin",
+                "login": "qiokis"
+            },
+            "rank": 304
+        }, {
+            "score": 34.0,
+            "name": "Evgeny Moiseev",
+            "user": {
+                "first_name": "Evgeny",
+                "last_name": "Moiseev",
+                "login": "IseeHorizont"
+            },
+            "rank": 305
+        }, {
+            "score": 34.0,
+            "name": "Timofei Beliachenko",
+            "user": {
+                "first_name": "Timofei",
+                "last_name": "Beliachenko",
+                "login": "Sermamba"
+            },
+            "rank": 306
+        }, {
+            "score": 33.0,
+            "name": "Алексей Ткачев",
+            "user": {
+                "first_name": "Алексей",
+                "last_name": "Ткачев",
+                "login": "sharky5"
+            },
+            "rank": 307
+        }, {
+            "score": 32.0,
+            "name": "Алесей Забашта",
+            "user": {
+                "first_name": "Алесей",
+                "last_name": "Забашта",
+                "login": "336588"
+            },
+            "rank": 308
+        }, {
+            "score": 32.0,
+            "name": "Роман Кондратьев",
+            "user": {
+                "first_name": "Роман",
+                "last_name": "Кондратьев",
+                "login": "375471"
+            },
+            "rank": 309
+        }, {
+            "score": 31.0,
+            "name": "Денис Братусев",
+            "user": {
+                "first_name": "Денис",
+                "last_name": "Братусев",
+                "login": "386859"
+            },
+            "rank": 310
+        }, {
+            "score": 31.0,
+            "name": "Фидан Гумеров",
+            "user": {
+                "first_name": "Фидан",
+                "last_name": "Гумеров",
+                "login": "fandroid"
+            },
+            "rank": 311
+        }, {
+            "score": 31.0,
+            "name": "Павел Трунов",
+            "user": {
+                "first_name": "Павел",
+                "last_name": "Трунов",
+                "login": "KeeperSalley"
+            },
+            "rank": 312
+        }, {
+            "score": 28.0,
+            "name": "Иван Микитчак",
+            "user": {
+                "first_name": "Иван",
+                "last_name": "Микитчак",
+                "login": "383867"
+            },
+            "rank": 313
+        }, {
+            "score": 28.0,
+            "name": "Андрей Смирнов",
+            "user": {
+                "first_name": "Андрей",
+                "last_name": "Смирнов",
+                "login": "382961"
+            },
+            "rank": 314
+        }, {
+            "score": 28.0,
+            "name": "Alex K",
+            "user": {
+                "first_name": "Alex",
+                "last_name": "K",
+                "login": "login1"
+            },
+            "rank": 315
+        }, {
+            "score": 28.0,
+            "name": "Юлия Смирнова",
+            "user": {
+                "first_name": "Юлия",
+                "last_name": "Смирнова",
+                "login": "347875"
+            },
+            "rank": 316
+        }, {
+            "score": 26.0,
+            "name": "Матвей Багров",
+            "user": {
+                "first_name": "Матвей",
+                "last_name": "Багров",
+                "login": "291542"
+            },
+            "rank": 317
+        }, {
+            "score": 25.0,
+            "name": "Александр Виноградов",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Виноградов",
+                "login": "AWGshka"
+            },
+            "rank": 318
+        }, {
+            "score": 25.0,
+            "name": "Владимир Овчаров",
+            "user": {
+                "first_name": "Владимир",
+                "last_name": "Овчаров",
+                "login": "Shurfik"
+            },
+            "rank": 319
+        }, {
+            "score": 24.0,
+            "name": "Sergey Koles",
+            "user": {
+                "first_name": "Sergey",
+                "last_name": "Koles",
+                "login": "Skoles"
+            },
+            "rank": 320
+        }, {
+            "score": 24.0,
+            "name": "Кирилл Михайлов",
+            "user": {
+                "first_name": "Кирилл",
+                "last_name": "Михайлов",
+                "login": "turutle"
+            },
+            "rank": 321
+        }, {
+            "score": 23.0,
+            "name": "Дмитрий Арутюнов",
+            "user": {
+                "first_name": "Дмитрий",
+                "last_name": "Арутюнов",
+                "login": "346897"
+            },
+            "rank": 322
+        }, {
+            "score": 22.0,
+            "name": "Джавид Мусаев",
+            "user": {
+                "first_name": "Джавид",
+                "last_name": "Мусаев",
+                "login": "javid"
+            },
+            "rank": 323
+        }, {
+            "score": 22.0,
+            "name": "Александр Макейкин",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Макейкин",
+                "login": "386144"
+            },
+            "rank": 324
+        }, {
+            "score": 20.0,
+            "name": "Visait Nunaev",
+            "user": {
+                "first_name": "Visait",
+                "last_name": "Nunaev",
+                "login": "E1ement"
+            },
+            "rank": 325
+        }, {
+            "score": 18.0,
+            "name": "Александр Гридин",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Гридин",
+                "login": "Alex580"
+            },
+            "rank": 326
+        }, {
+            "score": 18.0,
+            "name": "Petr Soloviev",
+            "user": {
+                "first_name": "Petr",
+                "last_name": "Soloviev",
+                "login": "callmepedro"
+            },
+            "rank": 327
+        }, {
+            "score": 18.0,
+            "name": "Радион Выгоняйло",
+            "user": {
+                "first_name": "Радион",
+                "last_name": "Выгоняйло",
+                "login": "311575"
+            },
+            "rank": 328
+        }, {
+            "score": 17.0,
+            "name": "Кристина Скопинцева",
+            "user": {
+                "first_name": "Кристина",
+                "last_name": "Скопинцева",
+                "login": "martyr552"
+            },
+            "rank": 329
+        }, {
+            "score": 16.0,
+            "name": "Юрий Куренский",
+            "user": {
+                "first_name": "Юрий",
+                "last_name": "Куренский",
+                "login": "yukak"
+            },
+            "rank": 330
+        }, {
+            "score": 14.0,
+            "name": "Askar Aidosuly",
+            "user": {
+                "first_name": "Askar",
+                "last_name": "Aidosuly",
+                "login": "oskarbay"
+            },
+            "rank": 331
+        }, {
+            "score": 14.0,
+            "name": "Sergey Slobodenyuk",
+            "user": {
+                "first_name": "Sergey",
+                "last_name": "Slobodenyuk",
+                "login": "sss"
+            },
+            "rank": 332
+        }, {
+            "score": 14.0,
+            "name": "Вероника Волокитина",
+            "user": {
+                "first_name": "Вероника",
+                "last_name": "Волокитина",
+                "login": "290654"
+            },
+            "rank": 333
+        }, {
+            "score": 13.0,
+            "name": "Kirill Suslov Suslov",
+            "user": {
+                "first_name": "Kirill Suslov",
+                "last_name": "Suslov",
+                "login": "Enfi"
+            },
+            "rank": 334
+        }, {
+            "score": 12.0,
+            "name": "Игорь Ушаков",
+            "user": {
+                "first_name": "Игорь",
+                "last_name": "Ушаков",
+                "login": "fsdevpy"
+            },
+            "rank": 335
+        }, {
+            "score": 12.0,
+            "name": "Алексей Селиверстов",
+            "user": {
+                "first_name": "Алексей",
+                "last_name": "Селиверстов",
+                "login": "silverstr89"
+            },
+            "rank": 336
+        }, {
+            "score": 12.0,
+            "name": "Василий Умрихин",
+            "user": {
+                "first_name": "Василий",
+                "last_name": "Умрихин",
+                "login": "vasya123"
+            },
+            "rank": 337
+        }, {
+            "score": 12.0,
+            "name": "Елена Блинова",
+            "user": {
+                "first_name": "Елена",
+                "last_name": "Блинова",
+                "login": "edblinova"
+            },
+            "rank": 338
+        }, {
+            "score": 12.0,
+            "name": "олег крылов",
+            "user": {
+                "first_name": "олег",
+                "last_name": "крылов",
+                "login": "krylov92oa"
+            },
+            "rank": 339
+        }, {
+            "score": 11.0,
+            "name": "Тим Иванов",
+            "user": {
+                "first_name": "Тим",
+                "last_name": "Иванов",
+                "login": "376329"
+            },
+            "rank": 340
+        }, {
+            "score": 10.0,
+            "name": "Константин Бац",
+            "user": {
+                "first_name": "Константин",
+                "last_name": "Бац",
+                "login": "kbats183"
+            },
+            "rank": 341
+        }, {
+            "score": 9.0,
+            "name": "Савва Меняйло",
+            "user": {
+                "first_name": "Савва",
+                "last_name": "Меняйло",
+                "login": "Kagerorus"
+            },
+            "rank": 342
+        }, {
+            "score": 9.0,
+            "name": "Владимир Скрябин",
+            "user": {
+                "first_name": "Владимир",
+                "last_name": "Скрябин",
+                "login": "skryabinv"
+            },
+            "rank": 343
+        }, {
+            "score": 8.0,
+            "name": "Sergei Ovsienko",
+            "user": {
+                "first_name": "Sergei",
+                "last_name": "Ovsienko",
+                "login": "289228"
+            },
+            "rank": 344
+        }, {
+            "score": 8.0,
+            "name": "Nikita Stepanov",
+            "user": {
+                "first_name": "Nikita",
+                "last_name": "Stepanov",
+                "login": "NikitaStepanov"
+            },
+            "rank": 345
+        }, {
+            "score": 8.0,
+            "name": "Сергей Беркут",
+            "user": {
+                "first_name": "Сергей",
+                "last_name": "Беркут",
+                "login": "375650"
+            },
+            "rank": 346
+        }, {
+            "score": 8.0,
+            "name": "Вячеслав Хаверко",
+            "user": {
+                "first_name": "Вячеслав",
+                "last_name": "Хаверко",
+                "login": "Haver"
+            },
+            "rank": 347
+        }, {
+            "score": 8.0,
+            "name": "Yerzhan Tolysbek",
+            "user": {
+                "first_name": "Yerzhan",
+                "last_name": "Tolysbek",
+                "login": "tallisback"
+            },
+            "rank": 348
+        }, {
+            "score": 7.0,
+            "name": "Александр Луковников",
+            "user": {
+                "first_name": "Александр",
+                "last_name": "Луковников",
+                "login": "Sasa"
+            },
+            "rank": 349
+        }, {
+            "score": 7.0,
+            "name": "Oleg Ivanov",
+            "user": {
+                "first_name": "Oleg",
+                "last_name": "Ivanov",
+                "login": "ivoligo"
+            },
+            "rank": 350
+        }, {
+            "score": 6.0,
+            "name": "Иван Ершов",
+            "user": {
+                "first_name": "Иван",
+                "last_name": "Ершов",
+                "login": "412025"
+            },
+            "rank": 351
+        }, {
+            "score": 6.0,
+            "name": "Никита Липатов",
+            "user": {
+                "first_name": "Никита",
+                "last_name": "Липатов",
+                "login": "nlipatov"
+            },
+            "rank": 352
+        }, {
+            "score": 6.0,
+            "name": "Sergey Romanov",
+            "user": {
+                "first_name": "Sergey",
+                "last_name": "Romanov",
+                "login": "mason"
+            },
+            "rank": 353
+        }, {
+            "score": 5.0,
+            "name": "Дмитрий Шавеко",
+            "user": {
+                "first_name": "Дмитрий",
+                "last_name": "Шавеко",
+                "login": "390390"
+            },
+            "rank": 354
+        }, {
+            "score": 5.0,
+            "name": "Эдна Юсупова",
+            "user": {
+                "first_name": "Эдна",
+                "last_name": "Юсупова",
+                "login": "293091"
+            },
+            "rank": 355
+        }, {
+            "score": 4.0,
+            "name": "Ильхом Буриев",
+            "user": {
+                "first_name": "Ильхом",
+                "last_name": "Буриев",
+                "login": "282437"
+            },
+            "rank": 356
+        }, {
+            "score": 3.0,
+            "name": "Elena Elenina",
+            "user": {
+                "first_name": "Elena",
+                "last_name": "Elenina",
+                "login": "300616"
+            },
+            "rank": 357
+        }, {
+            "score": 3.0,
+            "name": "Andrei Sv",
+            "user": {
+                "first_name": "Andrei",
+                "last_name": "Sv",
+                "login": "299721"
+            },
+            "rank": 358
+        }, {
+            "score": 3.0,
+            "name": "Константин Зоркин",
+            "user": {
+                "first_name": "Константин",
+                "last_name": "Зоркин",
+                "login": "336416"
+            },
+            "rank": 359
+        }, {
+            "score": 3.0,
+            "name": "Sergei Tarasov",
+            "user": {
+                "first_name": "Sergei",
+                "last_name": "Tarasov",
+                "login": "303986"
+            },
+            "rank": 360
+        }, {
+            "score": 3.0,
+            "name": "Яков Живов",
+            "user": {
+                "first_name": "Яков",
+                "last_name": "Живов",
+                "login": "301944"
+            },
+            "rank": 361
+        }, {
+            "score": 2.0,
+            "name": "Виктор Шарепо",
+            "user": {
+                "first_name": "Виктор",
+                "last_name": "Шарепо",
+                "login": "279876"
+            },
+            "rank": 362
+        }, {
+            "score": 2.0,
+            "name": "Мечиславас Матула",
+            "user": {
+                "first_name": "Мечиславас",
+                "last_name": "Матула",
+                "login": "prometey"
+            },
+            "rank": 363
+        }, {
+            "score": 2.0,
+            "name": "Азат Шарипов",
+            "user": {
+                "first_name": "Азат",
+                "last_name": "Шарипов",
+                "login": "375883"
+            },
+            "rank": 364
+        }, {
+            "score": 2.0,
+            "name": "Olga Zhukovskaya",
+            "user": {
+                "first_name": "Olga",
+                "last_name": "Zhukovskaya",
+                "login": "Strannica"
+            },
+            "rank": 365
+        }, {
+            "score": 2.0,
+            "name": "Юра Владимиров",
+            "user": {
+                "first_name": "Юра",
+                "last_name": "Владимиров",
+                "login": "370630"
+            },
+            "rank": 366
+        }, {
+            "score": 2.0,
+            "name": "Никита Титов",
+            "user": {
+                "first_name": "Никита",
+                "last_name": "Титов",
+                "login": "TitovNS"
+            },
+            "rank": 367
+        }, {
+            "score": 2.0,
+            "name": "Зоя Третьякова",
+            "user": {
+                "first_name": "Зоя",
+                "last_name": "Третьякова",
+                "login": "zoeytretiakova"
+            },
+            "rank": 368
+        }, {
+            "score": 2.0,
+            "name": "Vasily Pisar",
+            "user": {
+                "first_name": "Vasily",
+                "last_name": "Pisar",
+                "login": "harryhoppel"
+            },
+            "rank": 369
+        }, {
+            "score": 1.0,
+            "name": "Максим Медведев",
+            "user": {
+                "first_name": "Максим",
+                "last_name": "Медведев",
+                "login": "381800"
+            },
+            "rank": 370
+        }, {
+            "score": 1.0,
+            "name": "Marat Sakhabudinov",
+            "user": {
+                "first_name": "Marat",
+                "last_name": "Sakhabudinov",
+                "login": "300599"
+            },
+            "rank": 371
+        }, {
+            "score": 1.0,
+            "name": "Екатерина Казакова",
+            "user": {
+                "first_name": "Екатерина",
+                "last_name": "Казакова",
+                "login": "309761"
+            },
+            "rank": 372
+        }
+    ],
+    "my": null
+}
