@@ -1,3 +1,3 @@
-Анализ результатоа первого дня соревнования https://cups.mail.ru/ru/contests/scbhack Sovcombank Challenge 2021 Онлайн чемпионат по двум направлениям: Системный анализ и Java разработка.
+Анализ результатов первого дня соревнования https://cups.mail.ru/ru/contests/scbhack Sovcombank Challenge 2021 Онлайн чемпионат по двум направлениям: Системный анализ и Java разработка.
 
 Анализ результов из JSON формата.
